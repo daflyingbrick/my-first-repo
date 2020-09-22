@@ -15,7 +15,8 @@ A local *habitation* and a **name**.
 2. an ordered
 3. list
 
-Here is `some code` in the middle of a sentence.
+## Code
+**Here** is `some code` in the middle of a sentence.
 
 ```
 This is
