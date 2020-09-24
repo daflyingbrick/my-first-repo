@@ -16,7 +16,7 @@ A local *habitation* and a **name**.
 3. list
 
 ## Code
-**Here** is `some code` in the middle of a sentence.
+**Here** is `some code` in the middle of a sentence. Addit.
 
 ```
 This is
